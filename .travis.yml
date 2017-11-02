@@ -3,6 +3,6 @@ sudo: required
 language: generic
 
 script:
-    - sudo ./install_p4c-bm.sh
-    - sudo ./install_bmv2.sh
+    #- sudo ./install_p4c-bm.sh
+    #- sudo ./install_bmv2.sh
     - sudo ./install_p4c.sh
