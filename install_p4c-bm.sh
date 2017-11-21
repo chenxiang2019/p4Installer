@@ -1,3 +1,6 @@
+# Fail on error
+set -e
+
 sudo apt-get install python-pip
 git clone https://github.com/p4lang/p4c-bm.git
 cd p4c-bm
