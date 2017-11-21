@@ -1,3 +1,6 @@
+# Fail on error
+set -e
+
 sudo apt-get update
 
 # Install vim and git
