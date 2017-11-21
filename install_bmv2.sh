@@ -1,3 +1,6 @@
+# Fail on error
+set -e
+
 sudo git clone https://github.com/p4lang/behavioral-model.git
 sudo mv behavioral-model bmv2
 cd bmv2
