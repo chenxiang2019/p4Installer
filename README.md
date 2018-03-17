@@ -9,7 +9,7 @@ This repository maintains the scripts used to install P4 environment automatical
 
 I recommend you to execute these scripts under `/home/xxx/` to avoid unnecessary path problems.
 
-# CI Test: [![Build Status](https://www.travis-ci.org/Wasdns/p4env-installer.svg?branch=master)](https://www.travis-ci.org/Wasdns/p4env-installer)
+# CI Test: [![Build Status](https://www.travis-ci.org/Wasdns/p4Installer.svg?branch=master)](https://www.travis-ci.org/Wasdns/p4Installer)
 
 I didn't add the examination of `install_p4c.sh` to CI tests because of timeout. 
 
